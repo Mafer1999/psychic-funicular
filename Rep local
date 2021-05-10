@@ -1,0 +1,4 @@
+git init
+git config user.name "Mafer1999"
+git config user.email "marifergtz@live.com.mx"
+git remote add origin https://github.com/Mafer1999/psychic-funicular.git
